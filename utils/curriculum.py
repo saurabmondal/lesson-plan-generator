@@ -68,4 +68,4 @@ CURRICULUM = {
         },
         "8": {
             "Chapter 1: Advanced MS Excel": ["Functions in Excel (SUM, AVG, MAX, MIN)","Conditional Formatting","Sorting and Filtering","VLOOKUP Basics","Pivot Tables Introduction"],
-        }}
+        }}}
